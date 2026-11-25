@@ -1,0 +1,119 @@
+[
+  {
+    "id": "M001",
+    "name": "Nestea Lemon Tea",
+    "variant": "Regular",
+    "price": 5000,
+    "category": "Non-coffee",
+    "active": true,
+    "recipe": {
+      "cup": 1,
+      "drink": 1
+    },
+    "image": "products/tea.jpg"
+  },
+  {
+    "id": "M002",
+    "name": "Nestlé Lemonade",
+    "variant": "Regular",
+    "price": 5000,
+    "category": "Non-coffee",
+    "active": true,
+    "recipe": {
+      "cup": 1,
+      "drink": 1
+    },
+    "image": "products/lemonade.jpg"
+  },
+  {
+    "id": "M003",
+    "name": "Nestlé Blackcurrant",
+    "variant": "Regular",
+    "price": 5000,
+    "category": "Non-coffee",
+    "active": true,
+    "recipe": {
+      "cup": 1,
+      "drink": 1
+    },
+    "image": "products/blackcurrant.jpg"
+  },
+  {
+    "id": "M004",
+    "name": "Nestlé Milo",
+    "variant": "Regular",
+    "price": 10000,
+    "category": "Non-coffee",
+    "active": true,
+    "recipe": {
+      "cup": 1,
+      "drink": 1
+    },
+    "image": "products/milo.jpg"
+  },
+  {
+    "id": "M005",
+    "name": "NESCAFÉ Caffè Latté",
+    "variant": "Normal",
+    "price": 9000,
+    "category": "Coffee",
+    "active": true,
+    "recipe": {
+      "cup": 1,
+      "drink": 1
+    },
+    "image": "products/latte.jpg"
+  },
+  {
+    "id": "M006",
+    "name": "NESCAFÉ Caffè Latté",
+    "variant": "Strong",
+    "price": 11000,
+    "category": "Coffee",
+    "active": true,
+    "recipe": {
+      "cup": 1,
+      "drink": 1
+    },
+    "image": "products/latte.jpg"
+  },
+  {
+    "id": "M007",
+    "name": "NESCAFÉ Ice Roast",
+    "variant": "1 Shot",
+    "price": 5000,
+    "category": "Coffee",
+    "active": true,
+    "recipe": {
+      "cup": 1,
+      "drink": 1
+    },
+    "image": "products/roast.jpg"
+  },
+  {
+    "id": "M008",
+    "name": "NESCAFÉ Ice Roast",
+    "variant": "2 Shot",
+    "price": 7000,
+    "category": "Coffee",
+    "active": true,
+    "recipe": {
+      "cup": 1,
+      "drink": 1
+    },
+    "image": "products/roast.jpg"
+  },
+  {
+    "id": "M009",
+    "name": "NESCAFÉ Ice Roast",
+    "variant": "3 Shot",
+    "price": 9000,
+    "category": "Coffee",
+    "active": true,
+    "recipe": {
+      "cup": 1,
+      "drink": 1
+    },
+    "image": "products/roast.jpg"
+  }
+]

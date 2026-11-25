@@ -1,0 +1,1 @@
+<script setup>defineProps({title:String,subtitle:String})</script><template><header><p class="eyebrow">Sruput / Outlet workspace</p><h1>{{title}}</h1><p class="muted">{{subtitle}}</p></header></template>
